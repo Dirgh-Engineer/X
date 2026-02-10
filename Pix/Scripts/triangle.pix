@@ -1,0 +1,26 @@
+SetResolution(11,10,25,true)
+
+# Bottom row
+DrawPixel(2,1)
+DrawPixel(3,1)
+DrawPixel(4,1)
+DrawPixel(5,1)
+DrawPixel(6,1)
+DrawPixel(7,1)
+DrawPixel(8,1)
+
+# Row 2
+DrawPixel(3,2)
+DrawPixel(4,2)
+DrawPixel(5,2)
+DrawPixel(6,2)
+DrawPixel(7,2)
+
+# Row 3
+DrawPixel(4,3)
+DrawPixel(5,3)
+DrawPixel(6,3)
+
+# Top
+DrawPixel(5,4)
+
